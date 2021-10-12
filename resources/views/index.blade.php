@@ -11,7 +11,7 @@
 			@include('templates.chat')
 		<!--end::Chat drawer-->
 		<!--begin::Exolore drawer toggle-->
-			@include('templates.exolore_toggle')
+			{{-- @include('templates.exolore_toggle') --}}
 		<!--end::Exolore drawer toggle-->
 		<!--begin::Exolore drawer-->
 			@include('templates.exolore')

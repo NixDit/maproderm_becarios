@@ -3,20 +3,20 @@
     <div class="container-fluid d-flex flex-column flex-md-row align-items-center justify-content-between">
         <!--begin::Copyright-->
         <div class="text-dark order-2 order-md-1">
-            <span class="text-muted fw-bold me-1">2021©</span>
-            <a href="https://keenthemes.com" target="_blank" class="text-gray-800 text-hover-primary">Keenthemes</a>
+            <!-- <span class="text-muted fw-bold me-1">2021©</span> -->
+            <a href="https://maproderm.com/" target="_blank" class="text-gray-800 text-hover-primary">2021© MaProDerm</a>
         </div>
         <!--end::Copyright-->
         <!--begin::Menu-->
         <ul class="menu menu-gray-600 menu-hover-primary fw-bold order-1">
             <li class="menu-item">
-                <a href="https://keenthemes.com" target="_blank" class="menu-link px-2">About</a>
+                <a href="https://maproderm.com/shop/" target="_blank" class="menu-link px-2">Tienda</a>
             </li>
             <li class="menu-item">
-                <a href="https://keenthemes.com/support" target="_blank" class="menu-link px-2">Support</a>
+                <a href="https://www.facebook.com/groups/1816286932034513" target="_blank" class="menu-link px-2">Grupo Facebook</a>
             </li>
             <li class="menu-item">
-                <a href="https://1.envato.market/EA4JP" target="_blank" class="menu-link px-2">Purchase</a>
+                <a href="https://maproderm.com/" target="_blank" class="menu-link px-2">Acerca de</a>
             </li>
         </ul>
         <!--end::Menu-->
