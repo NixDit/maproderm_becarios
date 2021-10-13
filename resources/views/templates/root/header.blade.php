@@ -41,6 +41,11 @@
                                 <span class="menu-title">Formulario</span>
                             </a>
                         </div>
+                        <div class="menu-item me-lg-1">
+                            <a class="menu-link py-3" href="{{ asset('templates/sociales/redes') }}">
+                                <span class="menu-title">Redes Sociales</span>
+                            </a>
+                        </div>
                     </div>
                     <!--end::Menu-->
                 </div>
