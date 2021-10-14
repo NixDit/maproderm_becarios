@@ -12,6 +12,7 @@
     <script src="{{ asset('assets/js/custom/apps/chat/chat.js?v='.rand()) }}"></script>
     <script src="{{ asset('assets/js/custom/modals/create-app.js?v='.rand()) }}"></script>
     <script src="{{ asset('assets/js/custom/modals/upgrade-plan.js?v='.rand()) }}"></script>
+    <script src="{{ asset('assets/js/custom/pages/table/data-local.js?v='.rand()) }}"></script>
     <!--end::Page Custom Javascript-->
     <!--end::Javascript-->
     </body>

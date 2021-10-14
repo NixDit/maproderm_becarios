@@ -664,33 +664,13 @@
         </div>
         <!--end::Col-->
     </div>
-    <!--end::Row-->
-    <!--begin::Calendar Widget 1-->
-    <!-- TODO: INICIO MY CALENDARS -->
-    {{-- <div class="card">
-        <!--begin::Card header-->
-        <div class="card-header">
-            <h3 class="card-title align-items-start flex-column">
-                <span class="card-label fw-bolder text-dark">My Calendar</span>
-                <span class="text-muted mt-1 fw-bold fs-7">Preview monthly events</span>
-            </h3>
-            <div class="card-toolbar">
-                <a href="../../demo1/dist/apps/calendar.html" class="btn btn-primary">Manage Calendar</a>
-            </div>
-        </div>
-        <!--end::Card header-->
-        <!--begin::Card body-->
-        <div class="card-body">
-            <!--begin::Calendar-->
-            <div id="kt_calendar_widget_1"></div>
-            <!--end::Calendar-->
-        </div>
-        <!--end::Card body-->
-    </div> --}}
-    <!-- TODO: FIN MY CALENDARS -->
-    <!--end::Calendar Widget 1-->
-    <!--begin::Modals-->
-    <!--begin::Modal - New Product-->
+
+    <div class="row g-5 g-xl-12">
+        <!--begin::Card-->
+        
+        <!--end::Card-->
+    </div>
+
     <div class="modal fade" id="kt_modal_add_event" tabindex="-1" aria-hidden="true">
         <!--begin::Modal dialog-->
         <div class="modal-dialog modal-dialog-centered mw-650px">
