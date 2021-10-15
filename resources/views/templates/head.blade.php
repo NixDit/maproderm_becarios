@@ -10,7 +10,7 @@ Dribbble: www.dribbble.com/keenthemes
 Like: www.facebook.com/keenthemes
 License: For each use you must have a valid license purchased only from above link in order to legally use the theme for your project.
 -->
-<html lang="en">
+<html lang="es">
 	<!--begin::Head-->
 	<head><base href="">
 		<title>@yield('title','Membresía | MaProDerm')</title>
@@ -38,4 +38,5 @@ License: For each use you must have a valid license purchased only from above li
 	</head>
 	<!--end::Head-->
     <!--begin::Body-->
-	<body id="kt_body" class="header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled aside-fixed" style="--kt-toolbar-height:55px;--kt-toolbar-height-tablet-and-mobile:55px">
+	<body id="kt_body" class="header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled xaside-fixed" style="--kt-toolbar-height:55px;--kt-toolbar-height-tablet-and-mobile:55px">
+    <body id="kt_bodys" class="header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled" style="--kt-toolbar-height:55px;--kt-toolbar-height-tablet-and-mobile:55px">

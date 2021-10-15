@@ -1,7 +1,9 @@
 <?php
 
+use App\Http\Controllers\FormularioController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\RedessocialesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,3 +17,7 @@ use App\Http\Controllers\HomeController;
 */
 
 Route::get('/', [HomeController::class,'index'])->name('home');
+
+Route::get('/formulario', [FormularioController::class,'index'])->name('formulario');
+
+Route::get('/sociales', [RedessocialesController::class,'index'])->name('sociales');
