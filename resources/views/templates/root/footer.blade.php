@@ -5,6 +5,7 @@
         <div class="text-dark order-2 order-md-1">
             <!-- <span class="text-muted fw-bold me-1">2021©</span> -->
             <a href="https://maproderm.com/" target="_blank" class="text-gray-800 text-hover-primary">2021© MaProDerm</a>
+            {{-- <a href="https://maproderm.com/" target="_blank" class="text-dark-75 text-hover-primary">2021© MaProDerm<img src="{{  asset('assets/media/logos/logo2.png')  }}" alt="" width="150" height="10"></a> --}}
         </div>
         <!--end::Copyright-->
         <!--begin::Menu-->
