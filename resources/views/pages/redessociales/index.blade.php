@@ -191,7 +191,7 @@
                                                 <!--eng::Container-->
                                                 <!--begin::Footer-->
                                                 <div class="d-flex flex-center" id="kt_sticky_toolbar_chat_toggler_1" data-toggle="tooltip" title="" data-placement="right" data-original-title="Chat Example">
-                                                    <a href="https://wa.me/message/V64WQZ2OHK4LP1" class="btn btn-primary font-weight-bolder font-size-sm py-3 px-14" target="_black">Envía un mensaje</a>
+                                                    <a href="https://wa.me/message/V64WQZ2OHK4LP1" class="btn btn-success font-weight-bolder font-size-sm py-3 px-14" target="_black">Envía un mensaje</a>
                                                 </div>
                                                 <!--end::Footer-->
                                             </div>
