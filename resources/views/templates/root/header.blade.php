@@ -37,6 +37,16 @@
                             </a>
                         </div>
                         <div class="menu-item me-lg-1">
+                            <a class="menu-link py-3" href="{{ asset('eventos') }}">
+                                <span class="menu-title">Eventos</span>
+                            </a>
+                        </div>
+                        <div class="menu-item me-lg-1">
+                            <a class="menu-link py-3" href="{{ asset('crear-evento') }}">
+                                <span class="menu-title">Crear eventos</span>
+                            </a>
+                        </div>
+                        <div class="menu-item me-lg-1">
                             <a class="menu-link py-3" href="{{ asset('formulario') }}">
                                 <span class="menu-title">Formulario</span>
                             </a>
