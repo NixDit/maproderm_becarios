@@ -56,6 +56,11 @@
                                 <span class="menu-title">Redes Sociales</span>
                             </a>
                         </div>
+                        <div class="menu-item me-lg-1">
+                            <a class="menu-link py-3" href="{{('tablaprincipal')}}">
+                                <span class="menu-title">Tabla de usuarios</span>
+                            </a>
+                        </div>
                     </div>
                     <!--end::Menu-->
                 </div>
