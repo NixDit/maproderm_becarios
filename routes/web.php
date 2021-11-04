@@ -27,6 +27,10 @@ Route::get('/eventos', [EventController::class,'index'])->name('eventos');
 
 Route::get('/crear-evento', [EventController::class,'create'])->name('creareventos');
 
+Route::post('/guardar-evento',[EventController::class,'guardarEvento'])->name('guardarEvento');
+
+
+
 
 // Route::get('/eventos/get', [EventController::class, 'getEventos'])->middleware(['auth'])->name('eventos.getIndividual');
 // Route::get('/eventos/get-all', [EventController::class, 'getEventos'])->middleware(['auth'])->name('eventos.get');

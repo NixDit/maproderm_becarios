@@ -1,6 +1,6 @@
 @extends('pages.home')
-@section('toolbar_title','Dashboard')
-@section('toolbar_subtitle','Subtitle dashboard')
+@section('toolbar_title','EVENTOS')
+@section('toolbar_subtitle','Lista de eventos')
 @section('toolbar_actions')
     @include('pages.projects.toolbar_actions')
 @endsection

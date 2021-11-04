@@ -24,4 +24,5 @@
     </div>
     <!--end::Page-->
 </div>
+
 @endsection
